@@ -2,7 +2,7 @@
     <div class="container d-flex justify-content-center">
         <div class="row py-5">
             <div class="col">
-                <img src="" alt="Contact page image">
+                <img id="image" src="/plant.jpg" alt="Contact page image">
             </div>
             <div class="col">
                 <h2>Redes sociales</h2>
@@ -18,6 +18,10 @@
 </template>
 
 <style scoped>
+    #image {
+        width: 100%;
+        border-radius: 20px;
+    }
     #facebook:hover {
         color: blue;
     }
