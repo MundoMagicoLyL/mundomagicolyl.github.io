@@ -8,7 +8,8 @@
                 <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Manualidades y decoración de forma artesanal</h1>
                 <p class="lead">Desde la decoración de eventos hasta la creación de detallitos para esas personas o dias especiales, en <span class="text-success fw-bold">Mundo Mágico L&L</span> solo encontrarás productos hechos con amor y dedicación y servicios ofrecidos con la mayor atención. <i class="text-danger bi bi-heart"></i></p>
                 <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                    <RouterLink to="/about" class="btn btn-primary btn-lg"><i class="bi bi-chat-left-text-fill"></i> Contacta</RouterLink>
+                    <RouterLink to="/about" class="btn btn-primary btn-lg"><i class="bi bi-patch-question-fill"></i> Sobre nosotros</RouterLink>
+                    <RouterLink to="/contact" class="btn btn-outline-primary btn-lg"><i class="bi bi-chat-left-text-fill"></i> Contacta</RouterLink>
                 </div>
             </div>
         </div>

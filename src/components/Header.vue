@@ -11,6 +11,8 @@
 
       <ul class="nav nav-pills">
         <li class="nav-item"><RouterLink to="/home" class="nav-link">Home</RouterLink></li>
+        <li class="nav-item"><RouterLink to="/about" class="nav-link">Sobre nosotros</RouterLink></li>
+        <li class="nav-item"><RouterLink to="/about" class="nav-link">Contacta</RouterLink></li>
       </ul>
     </header>
 </template>
